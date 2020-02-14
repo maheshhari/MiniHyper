@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MiniHyper", "MiniHyper\MiniHyper.vcxproj", "{507B461C-2B77-45AB-9BC9-AC1ED6704716}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{507B461C-2B77-45AB-9BC9-AC1ED6704716}.Debug|x64.ActiveCfg = Debug|x64
+		{507B461C-2B77-45AB-9BC9-AC1ED6704716}.Debug|x64.Build.0 = Debug|x64
+		{507B461C-2B77-45AB-9BC9-AC1ED6704716}.Debug|x86.ActiveCfg = Debug|Win32
+		{507B461C-2B77-45AB-9BC9-AC1ED6704716}.Debug|x86.Build.0 = Debug|Win32
+		{507B461C-2B77-45AB-9BC9-AC1ED6704716}.Release|x64.ActiveCfg = Release|x64
+		{507B461C-2B77-45AB-9BC9-AC1ED6704716}.Release|x64.Build.0 = Release|x64
+		{507B461C-2B77-45AB-9BC9-AC1ED6704716}.Release|x86.ActiveCfg = Release|Win32
+		{507B461C-2B77-45AB-9BC9-AC1ED6704716}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49E189A4-A2C3-4DD0-8C83-B4CBB0021BE1}
+	EndGlobalSection
+EndGlobal
